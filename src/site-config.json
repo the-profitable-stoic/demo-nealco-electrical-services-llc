@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Nealco Electrical Services, LLC",
+    "phone": "+15125718951",
+    "category": "electrical contractor",
+    "city": "Austin",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Austin, Reliably.",
+      "heroSubline": "Expert electrical services for homes and businesses across the Austin metro area. Quality workmanship, guaranteed.",
+      "aboutTitle": "Decades of Electrical Expertise in Austin",
+      "aboutText": [
+        "Nealco Electrical Services, LLC, was founded over a decade ago by master electrician, Robert Neal. Seeing a need for dependable and honest electrical work in the rapidly growing Austin area, Robert set out to build a company based on those principles.",
+        "We believe in doing the job right the first time, every time. Our team is committed to clear communication, upfront pricing, and exceeding expectations. We use only quality materials and stay up-to-date with the latest electrical codes and safety standards.",
+        "As Austinites ourselves, we're invested in the well-being of our community. We actively support local initiatives and strive to be a responsible and ethical business partner for our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Electricians",
+          "description": "Decades of combined experience handling any electrical challenge, big or small."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. You'll know the cost before we start the work."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Fully licensed and insured for your peace of mind and protection."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait. We're available around the clock to respond to urgent needs."
+        }
+      ],
+      "ctaHeadline": "Ready to Get Started?",
+      "ctaSubline": "Contact Nealco Electrical Services today for a free quote and experience the difference."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast, reliable electrical repairs for your home or business.",
+        "description": "From flickering lights to faulty outlets, electrical problems can be frustrating and potentially dangerous. Nealco Electrical Services provides comprehensive electrical repair services to address any issue you may be experiencing in your Austin home or business. Our licensed electricians are skilled at diagnosing the root cause of the problem and implementing effective solutions.\n\nWe handle a wide range of electrical repairs, including troubleshooting wiring issues, replacing damaged outlets and switches, repairing lighting fixtures, fixing circuit breaker problems, and addressing power outages. We understand the unique challenges posed by Austin's climate, including lightning strikes and extreme heat, which can contribute to electrical system failures.\n\nOur team uses advanced diagnostic tools and techniques to ensure accurate and efficient repairs. We prioritize safety and adhere to all local electrical codes. Whether you have an urgent electrical emergency or a minor repair, you can count on Nealco Electrical Services for prompt and professional service.",
+        "process": [
+          "Inspection and Diagnosis",
+          "Clear Explanation of the Problem",
+          "Upfront Pricing",
+          "Expert Repair with Quality Parts"
+        ],
+        "benefits": [
+          "Restore Power Quickly",
+          "Prevent Further Damage",
+          "Ensure Safety",
+          "Extend the Life of Your Electrical System"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to respond to urgent calls as quickly as possible, typically within the hour depending on your location in the Austin metro area."
+          },
+          {
+            "question": "What are the signs of a potential electrical problem?",
+            "answer": "Common signs include flickering lights, frequently tripping circuit breakers, burning smells, sparking outlets, and warm or discolored outlets."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured for your protection and peace of mind. We are committed to providing safe and reliable electrical services."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased capacity and safety.",
+        "description": "Is your electrical panel outdated or insufficient for your current power demands? Many older homes in areas like South Congress and Travis Heights have electrical panels that are no longer adequate for modern appliances and electronics. Nealco Electrical Services specializes in electrical panel upgrades to ensure your home has the power it needs, safely and reliably.\n\nAn electrical panel upgrade can increase your home's electrical capacity, allowing you to add new circuits, install energy-efficient appliances, and avoid overloading your system. We assess your current electrical needs and recommend the appropriate panel size and configuration. Our electricians handle the entire upgrade process, from removing the old panel to installing the new one and ensuring it meets all local electrical codes.\n\nWe also offer surge protection options to protect your valuable electronics from power surges. Upgrading your electrical panel can improve the safety and efficiency of your electrical system, providing peace of mind and enhancing the value of your home.",
+        "process": [
+          "Electrical Load Assessment",
+          "Panel Selection and Permitting",
+          "Safe Removal of Old Panel",
+          "Expert Installation of New Panel"
+        ],
+        "benefits": [
+          "Increased Electrical Capacity",
+          "Improved Safety",
+          "Protection from Power Surges",
+          "Enhanced Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs include frequently tripping circuit breakers, flickering lights when multiple appliances are in use, and an outdated or damaged panel. We can perform an electrical load assessment to determine if an upgrade is necessary."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The duration of an electrical panel upgrade typically ranges from 4 to 8 hours, depending on the complexity of the job. We will provide you with a specific timeline before starting the work."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, electrical panel upgrades typically require a permit from the City of Austin. We handle the permit application process on your behalf to ensure compliance with all local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home's ambiance with professional lighting installation.",
+        "description": "Proper lighting can transform the look and feel of your home, both inside and out. Nealco Electrical Services offers comprehensive lighting installation services to create the perfect ambiance and enhance the functionality of your living spaces. Whether you're looking to install recessed lighting in your kitchen, add landscape lighting to your backyard, or upgrade your existing fixtures, our team can help.\n\nWe work with a wide range of lighting styles and technologies, including LED lighting, smart lighting systems, and energy-efficient options. Our electricians are skilled at installing new circuits, wiring, and fixtures, ensuring a safe and reliable installation. We also provide lighting design consultations to help you choose the right fixtures and placement to achieve your desired look.\n\nFrom modern track lighting to classic chandeliers, we can handle any lighting installation project with precision and expertise. Enhance the beauty and functionality of your Austin home with professional lighting installation from Nealco Electrical Services.",
+        "process": [
+          "Lighting Design Consultation",
+          "Fixture Selection and Procurement",
+          "Safe Wiring and Installation",
+          "Testing and Optimization"
+        ],
+        "benefits": [
+          "Enhanced Ambiance",
+          "Improved Functionality",
+          "Increased Energy Efficiency",
+          "Higher Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is highly energy-efficient, long-lasting, and produces less heat than traditional lighting options. It can also save you money on your electricity bill and reduce your environmental impact."
+          },
+          {
+            "question": "Can you install smart lighting systems?",
+            "answer": "Yes, we specialize in installing and configuring smart lighting systems that allow you to control your lights remotely using your smartphone or voice commands."
+          },
+          {
+            "question": "Do you offer outdoor lighting installation?",
+            "answer": "Yes, we offer a wide range of outdoor lighting options, including landscape lighting, security lighting, and patio lighting. We can help you create a beautiful and functional outdoor space."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-switch-installation",
+        "name": "Outlet & Switch Installation",
+        "shortDescription": "Safe and reliable outlet and switch installation for your home.",
+        "description": "Outlets and switches are essential components of your electrical system, providing power and control for your appliances and lighting. If you need to add new outlets, replace damaged ones, or upgrade your switches, Nealco Electrical Services can help. We provide safe and reliable outlet and switch installation services for homes throughout the Austin area.\n\nOur licensed electricians are experienced in installing a variety of outlets and switches, including standard outlets, GFCI outlets, USB outlets, dimmer switches, and smart switches. We ensure that all installations meet local electrical codes and safety standards. We also offer troubleshooting services to diagnose and repair faulty outlets and switches.\n\nWhether you're renovating your kitchen, adding a home office, or simply need to replace a broken outlet, you can count on Nealco Electrical Services for professional and efficient service. We use quality materials and techniques to ensure a long-lasting and safe installation.",
+        "process": [
+          "Assessment of Outlet/Switch Needs",
+          "Safe Removal of Old Fixtures",
+          "Precise Wiring and Installation",
+          "Thorough Testing and Inspection"
+        ],
+        "benefits": [
+          "Increased Convenience",
+          "Improved Safety",
+          "Modernized Appearance",
+          "Enhanced Functionality"
+        ],
+        "faq": [
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is designed to protect you from electrical shock by quickly shutting off power when it detects a ground fault. GFCI outlets are typically required in bathrooms, kitchens, and outdoor areas."
+          },
+          {
+            "question": "Can you install USB outlets?",
+            "answer": "Yes, we can install USB outlets that allow you to charge your electronic devices directly from the outlet without the need for an adapter."
+          },
+          {
+            "question": "How long does it take to install an outlet or switch?",
+            "answer": "The duration of an outlet or switch installation depends on the complexity of the job. A simple replacement typically takes 15-30 minutes, while a new installation may take longer."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-surge-protection",
+        "name": "Whole-House Surge Protection",
+        "shortDescription": "Protect your electronics with whole-house surge protection.",
+        "description": "Power surges can damage or destroy your valuable electronics, including computers, TVs, and appliances. In Austin, with its history of summer thunderstorms, protecting your investment is critical. Nealco Electrical Services offers whole-house surge protection to safeguard your entire electrical system from power surges caused by lightning, utility issues, or internal electrical events.\n\nWhole-house surge protection is installed at your electrical panel and provides a comprehensive layer of defense against power surges. It diverts excess voltage away from your sensitive electronics, preventing damage and extending their lifespan. Our licensed electricians can assess your home's electrical system and recommend the appropriate surge protection solution.\n\nWe install high-quality surge protection devices that meet or exceed industry standards. Protect your Austin home and your valuable electronics with whole-house surge protection from Nealco Electrical Services.",
+        "process": [
+          "Electrical System Assessment",
+          "Surge Protector Selection",
+          "Professional Installation",
+          "Testing and Verification"
+        ],
+        "benefits": [
+          "Protection from Power Surges",
+          "Prevention of Electrical Damage",
+          "Extended Lifespan of Electronics",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How does whole-house surge protection work?",
+            "answer": "Whole-house surge protection diverts excess voltage away from your sensitive electronics, preventing damage from power surges."
+          },
+          {
+            "question": "What is the difference between a surge protector and a power strip?",
+            "answer": "A surge protector is designed to protect against power surges, while a power strip simply provides multiple outlets. A surge protector typically has a higher joule rating than a power strip."
+          },
+          {
+            "question": "How often should I replace my surge protector?",
+            "answer": "Surge protectors should be replaced every 2-3 years, or more frequently if they have experienced a significant surge. Some surge protectors have indicator lights that let you know when they need to be replaced."
+          }
+        ]
+      },
+      {
+        "slug": "ceiling-fan-installation",
+        "name": "Ceiling Fan Installation",
+        "shortDescription": "Professional ceiling fan installation for comfort and energy savings.",
+        "description": "Ceiling fans can improve air circulation, reduce energy costs, and enhance the comfort of your home. Nealco Electrical Services offers professional ceiling fan installation services for homes throughout the Austin area. Whether you're installing a new ceiling fan or replacing an existing one, our licensed electricians can ensure a safe and reliable installation.\n\nWe handle all aspects of ceiling fan installation, including wiring, mounting, and balancing. We also offer ceiling fan repair services to address issues such as wobbling, noise, and motor problems. Our electricians are experienced in installing a variety of ceiling fan styles and sizes, including fans with lights, remote controls, and energy-efficient features.\n\nEnhance the comfort and energy efficiency of your Austin home with professional ceiling fan installation from Nealco Electrical Services. We can handle the job safely and efficiently, ensuring your ceiling fan operates smoothly and reliably.",
+        "process": [
+          "Site Assessment and Fan Selection",
+          "Safe Wiring and Mounting",
+          "Blade Balancing and Testing",
+          "Remote Control Configuration (if applicable)"
+        ],
+        "benefits": [
+          "Improved Air Circulation",
+          "Reduced Energy Costs",
+          "Enhanced Comfort",
+          "Stylish Design"
+        ],
+        "faq": [
+          {
+            "question": "Can you install a ceiling fan on a sloped ceiling?",
+            "answer": "Yes, we can install ceiling fans on sloped ceilings using special adapters and mounting hardware."
+          },
+          {
+            "question": "How long does it take to install a ceiling fan?",
+            "answer": "The duration of a ceiling fan installation typically ranges from 1 to 2 hours, depending on the complexity of the job."
+          },
+          {
+            "question": "Do I need a permit for ceiling fan installation?",
+            "answer": "In most cases, a permit is not required for ceiling fan installation unless new wiring is being installed. We can advise you on local permit requirements."
+          }
+        ]
+      },
+      {
+        "slug": "ev-charger-installation",
+        "name": "EV Charger Installation",
+        "shortDescription": "Expert installation of EV chargers for your electric vehicle.",
+        "description": "As electric vehicles become more popular in Austin, having a reliable home charging solution is essential. Nealco Electrical Services provides professional EV charger installation services for homeowners throughout the area. We can help you choose the right charger for your vehicle and install it safely and efficiently.\n\nOur licensed electricians are experienced in installing Level 2 EV chargers, which provide faster charging times than standard Level 1 chargers. We handle all aspects of the installation process, including wiring, circuit breaker upgrades, and permit acquisition. We also ensure that your EV charger meets all local electrical codes and safety standards.\n\nWith the increasing popularity of EVs in neighborhoods like Mueller and East Austin, we're ready to help you power your electric future. Get your EV charger installed quickly and professionally by Nealco Electrical Services.",
+        "process": [
+          "Electrical Load Assessment",
+          "Charger Selection and Permitting",
+          "Wiring and Circuit Installation",
+          "Testing and Commissioning"
+        ],
+        "benefits": [
+          "Faster Charging Times",
+          "Increased Convenience",
+          "Reduced Fuel Costs",
+          "Environmentally Friendly"
+        ],
+        "faq": [
+          {
+            "question": "What is a Level 2 EV charger?",
+            "answer": "A Level 2 EV charger uses a 240-volt outlet and can charge an electric vehicle significantly faster than a standard 120-volt Level 1 charger."
+          },
+          {
+            "question": "Do I need a dedicated circuit for my EV charger?",
+            "answer": "Yes, a dedicated circuit is typically required for a Level 2 EV charger to ensure safe and reliable operation."
+          },
+          {
+            "question": "Can you help me choose the right EV charger for my vehicle?",
+            "answer": "Yes, we can assess your vehicle's charging requirements and recommend the appropriate EV charger model."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Round Rock",
+        "slug": "round-rock-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC is proud to provide comprehensive electrical services to the residents and businesses of Round Rock, Texas. Known for its family-friendly atmosphere and rapid growth in the late 1990s and 2000s, Round Rock features numerous subdivisions with homes of varying ages and electrical systems. We understand the unique needs of this community, from ensuring safe and reliable power for modern appliances to upgrading older wiring to meet current safety standards.\n\nOur team of licensed and experienced electricians is equipped to handle any electrical project, big or small. Whether you're experiencing flickering lights, need a new circuit installed, or require a complete home rewiring, Nealco Electrical Services, LLC is here to help. We're committed to providing prompt, professional, and affordable electrical services to keep your home or business running smoothly, especially during the scorching Texas summers when reliable air conditioning is essential.",
+        "localContext": "Round Rock is characterized by its many family-oriented subdivisions built primarily in the 1990s and 2000s, and its residents often face extreme heat during the summer months.",
+        "nearbyAreas": [
+          "Austin",
+          "Pflugerville",
+          "Georgetown"
+        ]
+      },
+      {
+        "city": "Cedar Park",
+        "slug": "cedar-park-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC extends its expert electrical services to Cedar Park, Texas, a vibrant and rapidly growing suburban community. Cedar Park experienced significant growth in the 2000s, resulting in a diverse range of homes and businesses with varying electrical needs. We're well-versed in the electrical systems common in this area and are ready to assist with everything from routine maintenance to complex installations.\n\nFrom troubleshooting electrical issues to installing energy-efficient lighting solutions, Nealco Electrical Services, LLC is your trusted partner in Cedar Park. We understand the importance of reliable electricity, especially during the hot Texas summers. Our commitment to quality workmanship and customer satisfaction ensures that your electrical needs are met with precision and care.",
+        "localContext": "Cedar Park experienced significant growth during the 2000s, and its residents need reliable air conditioning during the hot summers.",
+        "nearbyAreas": [
+          "Leander",
+          "Austin",
+          "Round Rock"
+        ]
+      },
+      {
+        "city": "Georgetown",
+        "slug": "georgetown-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC is dedicated to serving the historic and charming city of Georgetown, Texas. Known for its beautifully preserved Victorian downtown homes and growing community, Georgetown presents a unique blend of older and newer electrical systems. We have the expertise to handle the specific challenges that arise in both historic and modern properties.\n\nWhether you're restoring a historic home, building a new addition, or simply need electrical repairs, Nealco Electrical Services, LLC is here to help. We understand the importance of preserving the character of Georgetown while ensuring safe and reliable electrical service. Our team is committed to providing exceptional service and quality workmanship to the residents and businesses of Georgetown.",
+        "localContext": "Georgetown is known for its charming Victorian downtown homes, requiring specialized electrical expertise for older properties.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Liberty Hill",
+          "Jarrell"
+        ]
+      },
+      {
+        "city": "Pflugerville",
+        "slug": "pflugerville-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC provides reliable electrical services to the growing community of Pflugerville, Texas. Known for its affordable newer construction and family-friendly atmosphere, Pflugerville offers a wide range of homes and businesses. We understand the electrical needs of this community and are dedicated to providing top-notch service at competitive prices.\n\nFrom installing new outlets to upgrading electrical panels, Nealco Electrical Services, LLC is your trusted partner in Pflugerville. We are committed to providing prompt, professional, and affordable electrical services to keep your home or business running smoothly, especially when the temperatures soar during the summer.",
+        "localContext": "Pflugerville is characterized by its affordable newer construction, with residents facing extreme heat during the summer months.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Austin",
+          "Hutto"
+        ]
+      },
+      {
+        "city": "Austin",
+        "slug": "austin-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC is proud to serve the vibrant and ever-growing city of Austin, Texas. As the heart of Texas, Austin boasts a diverse range of homes and businesses, each with unique electrical needs. From historic homes in Hyde Park to modern high-rises downtown, our team is equipped to handle any electrical project, big or small.\n\nWe understand the importance of reliable electricity in a city as dynamic as Austin. Whether you need a simple repair or a complex installation, Nealco Electrical Services, LLC is committed to providing prompt, professional, and affordable electrical services. We're here to keep your home or business powered and running smoothly.",
+        "localContext": "Austin is a diverse city with a wide range of homes and businesses, each with unique electrical requirements.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Cedar Park",
+          "Pflugerville"
+        ]
+      },
+      {
+        "city": "Leander",
+        "slug": "leander-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC extends its expert electrical services to Leander, Texas, a rapidly growing city with a mix of established neighborhoods and new developments. Leander's growth has brought a diverse range of homes and businesses with varying electrical needs. We're well-versed in the electrical systems common in this area and are ready to assist with everything from routine maintenance to complex installations.\n\nFrom troubleshooting electrical issues to installing energy-efficient lighting solutions, Nealco Electrical Services, LLC is your trusted partner in Leander. We understand the importance of reliable electricity, especially during the hot Texas summers. Our commitment to quality workmanship and customer satisfaction ensures that your electrical needs are met with precision and care.",
+        "localContext": "Leander's rapid growth has resulted in a diverse range of homes and businesses, requiring a wide range of electrical services.",
+        "nearbyAreas": [
+          "Cedar Park",
+          "Liberty Hill",
+          "Georgetown"
+        ]
+      },
+      {
+        "city": "Hutto",
+        "slug": "hutto-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC is pleased to provide electrical services to the rapidly growing community of Hutto, Texas. Known for its family-friendly atmosphere and affordable housing, Hutto residents need reliable and affordable electrical services.\n\nOur team of licensed and experienced electricians is equipped to handle any electrical project, big or small. Whether you're experiencing flickering lights, need a new circuit installed, or require a complete home rewiring, Nealco Electrical Services, LLC is here to help. We're committed to providing prompt, professional, and affordable electrical services to keep your home or business running smoothly.",
+        "localContext": "Hutto is known for its affordable housing, and its residents need reliable electrical services to deal with the hot summers.",
+        "nearbyAreas": [
+          "Pflugerville",
+          "Taylor",
+          "Round Rock"
+        ]
+      },
+      {
+        "city": "Liberty Hill",
+        "slug": "liberty-hill-tx",
+        "state": "TX",
+        "content": "Nealco Electrical Services, LLC proudly serves the community of Liberty Hill, Texas, offering a wide range of electrical services to meet the needs of its residents and businesses. Liberty Hill is experiencing growth and development, with a mix of rural properties and newer subdivisions. We understand the unique electrical challenges that come with both types of properties and are equipped to handle them effectively.\n\nWhether you need electrical repairs, installations, or upgrades, Nealco Electrical Services, LLC is here to help. We are committed to providing reliable, safe, and affordable electrical services to the residents and businesses of Liberty Hill. Our team of experienced electricians is dedicated to ensuring your electrical systems are functioning optimally.",
+        "localContext": "Liberty Hill features a mix of rural properties and new subdivisions, requiring diverse electrical expertise.",
+        "nearbyAreas": [
+          "Georgetown",
+          "Leander",
+          "Burnet"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Nealco Electrical was fantastic! Our old panel was struggling to keep up with our new appliances. They upgraded it quickly and professionally. The electrician, David, explained everything clearly and answered all my questions. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "I had a few outlets that weren't working properly, and Nealco Electrical fixed them in no time. The electrician was on time, courteous, and efficient. The pricing was fair and transparent. I'll definitely use them again for any future electrical needs.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "We hired Nealco Electrical to install recessed lighting in our kitchen, and we couldn't be happier with the results. The lighting is beautiful and has completely transformed the space. The installation was done quickly and professionally. Great job!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Whole-House Surge Protection",
+        "text": "After a recent lightning storm, I decided to invest in whole-house surge protection. Nealco Electrical installed the system quickly and efficiently. I now have peace of mind knowing that my electronics are protected from power surges. Great service!",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Ceiling Fan Installation",
+        "text": "Nealco Electrical installed a new ceiling fan in our bedroom. The electrician was professional and efficient. The fan works great and has made a big difference in the comfort of the room. I would recommend Nealco Electrical to anyone needing electrical services.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "EV Charger Installation",
+        "text": "Installed my Level 2 charger without a hitch. Showed up on time, knew his stuff, and got it done quickly. Now I can charge my Tesla at home without any problems. Will call them again.",
+        "date": "2024-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Austin Electrician | Nealco Electrical Services",
+        "description": "Reliable electrical services in Austin, TX. Repairs, upgrades, lighting, and more. Licensed & insured. Call +15125718951."
+      },
+      "about": {
+        "title": "About Nealco Electrical Services | Austin, TX",
+        "description": "Learn about Nealco Electrical Services, a trusted electrician in Austin. Quality workmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Electrical Services | Nealco Electrical Services",
+        "description": "Comprehensive electrical services in Austin, TX. Repairs, panel upgrades, lighting, EV chargers, and more."
+      },
+      "contact": {
+        "title": "Contact Nealco Electrical Services | Austin, TX",
+        "description": "Contact Nealco Electrical Services for reliable electrical services in Austin, TX. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Nealco Electrical Services Reviews | Austin, TX",
+        "description": "Read reviews for Nealco Electrical Services in Austin, TX. See what our satisfied customers have to say about our electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Nealco Electrical Services",
+        "description": "Nealco Electrical Services provides expert services in Round Rock, Cedar Park, Georgetown, and Pflugerville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-switch-installation": "/images/service-outlet-switch-installation.webp",
+      "whole-house-surge-protection": "/images/service-whole-house-surge-protection.webp",
+      "ceiling-fan-installation": "/images/service-ceiling-fan-installation.webp",
+      "ev-charger-installation": "/images/service-ev-charger-installation.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-switch-installation": {
+        "src": "/images/service-outlet-switch-installation.webp",
+        "srcset": "/images/service-outlet-switch-installation-400w.webp 400w, /images/service-outlet-switch-installation-800w.webp 800w, /images/service-outlet-switch-installation-1200w.webp 1200w, /images/service-outlet-switch-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-surge-protection": {
+        "src": "/images/service-whole-house-surge-protection.webp",
+        "srcset": "/images/service-whole-house-surge-protection-400w.webp 400w, /images/service-whole-house-surge-protection-800w.webp 800w, /images/service-whole-house-surge-protection-1200w.webp 1200w, /images/service-whole-house-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ceiling-fan-installation": {
+        "src": "/images/service-ceiling-fan-installation.webp",
+        "srcset": "/images/service-ceiling-fan-installation-400w.webp 400w, /images/service-ceiling-fan-installation-800w.webp 800w, /images/service-ceiling-fan-installation-1200w.webp 1200w, /images/service-ceiling-fan-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ev-charger-installation": {
+        "src": "/images/service-ev-charger-installation.webp",
+        "srcset": "/images/service-ev-charger-installation-400w.webp 400w, /images/service-ev-charger-installation-800w.webp 800w, /images/service-ev-charger-installation-1200w.webp 1200w, /images/service-ev-charger-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
